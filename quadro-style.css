@@ -1,0 +1,25 @@
+body{
+    background-color: beige;
+}
+.quadro{
+    margin: auto;
+    margin-top: 200px;
+    width: 400px;
+    height:300px ;
+}
+.conteudo{
+    background-image: url("/img/FazerQuadro.jpg");
+    background-size: 100%;
+
+    width: 350px;
+    height: 260px;
+
+    border: 10px inset #999;
+}
+.moldura-dois {
+	width: 375px; 
+	border:8px inset #5f6632;
+	padding:15px;
+	background: #b1b1c3;
+    box-shadow: 10px 15px 15px gray;
+}

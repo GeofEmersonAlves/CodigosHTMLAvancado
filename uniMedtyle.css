@@ -1,0 +1,19 @@
+body{
+    font-size: 10pt;
+}
+
+.caixaDeFora{
+    width: 95vw;  
+    height: 70vh;
+    border: 1px solid black;
+    font-size: 1.5em;
+    
+}
+
+.caixaDeDentro{
+    font-size: 2em;
+    border: 2px solid red;  
+    width: 50%;
+    height: 80%;
+    border-radius: 10% 0%
+ }

@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Creepster&family=Luckiest+Guy&family=Sacramento&display=swap");
+
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Spice&family=Noto+Sans+JP:wght@100..900&display=swap');
+
+@font-face {
+  font-family: "fFireBlast";
+  src: url("/fonts/fFireBlast.ttf");
+}
+@font-face {
+  font-family: 'Bandeiras Junina';
+  src: url("/fonts/KGChasingCars.ttf");
+}
+
+@font-face {
+  font-family: 'Game Of Squids';
+  src: url('/fonts/Game\ Of\ Squids.ttf');
+}
+
+body {
+  background-color: #95afc8;
+  color: black;
+  /* background-image: url("/img/fundo-sobre-nos.jpg");
+  background-size: 100%;
+  background-attachment: fixed; */
+}
+h1 {
+  font-family: "fFireBlast",'Game Of Squids',serif;
+  font-size: 20pt ;
+  text-align: right;
+  color: blueviolet;
+}
+h2 {
+  font-family: "fFireBlast", Arial;
+  font-size: 26pt;
+  border-style: solid;
+  height: 60px;
+}
+p {
+  font-size: 20pt;
+  font-family: Arial;
+  text-align: justify;
+  font-weight: bold;
+  
+}
+.game{
+  font-family:'Game Of Squids', Arial ;
+}
+
+.container{
+  margin: auto;
+  text-align: center;
+  width: 50%;
+  height: 20%;
+  border-color: black;
+  border-style: solid;
+  border-width: 30px;
+  margin: auto;
+  margin-top: 50px;
+  padding-left: 50px;
+  padding-top: 150px;
+  padding-right: 100px;
+}
+#nuvem{
+  width: 70%;
+  height: 20%;
+}
+#nuvem-fora{
+  width: 70%;
+  height: 20%;
+}
+.repete{
+  margin: auto;
+  border-color: rgb(99, 24, 43);
+  border-style: dashed;
+  width: 500px;
+  height: 300px;
+  
+
+}
